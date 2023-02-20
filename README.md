@@ -1,4 +1,12 @@
+
+
+![CoverImage](https://github.com/ameya-9/AnomalyDetection/blob/main/img/anomaly_detection-8-1014x487.png)
+
+
 # AnomalyDetection
+Anomaly detection (also referred to as outlier detection and sometimes as novelty detection) is generally understood to be the identification of rare items, events or observations which deviate significantly from the majority of the data and do not conform to a well defined notion of normal behaviour. 
+In this case we had temperature information and variation in the values, stored multiple times in a day.
+
 ## Introduction
 This was a personal project to learn more about concepts like Anomaly detection, Feature Engineering and Information Visualisation.
 
