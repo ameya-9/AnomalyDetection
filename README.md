@@ -22,4 +22,6 @@ Python Libraries: Pandas, NumPy, Matplotlib.pyplot, Scipy and Math
  
  
 November temperature vs Days (and outliers in red)
-![November temp and outliers in red] (https://github.com/ameya-9/AnomalyDetection/blob/main/img/Nov-outlier.png)
+![November temp and outliers in red](https://github.com/ameya-9/AnomalyDetection/blob/main/img/Nov-outlier.png)
+![Febuary temp and outliers in red](https://github.com/ameya-9/AnomalyDetection/blob/main/img/feb-outlier.png)
+![January temp and outliers in red](https://github.com/ameya-9/AnomalyDetection/blob/main/img/jan-outlier.png)
