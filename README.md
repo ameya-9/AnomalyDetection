@@ -21,3 +21,5 @@ Python Libraries: Pandas, NumPy, Matplotlib.pyplot, Scipy and Math
     4. We see there is dipped temperature April/May.
  
  
+November temperature vs Days (and outliers in red)
+![November temp and outliers in red] (https://github.com/ameya-9/AnomalyDetection/blob/main/img/Nov-outlier.png)
