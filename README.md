@@ -20,8 +20,11 @@ Python Libraries: Pandas, NumPy, Matplotlib.pyplot, Scipy and Math
     3. August 2nd, November 4th, December 5th and May 12th were outliers.
     4. We see there is dipped temperature April/May.
  
- 
+Outliers values.
+![Outlier values](https://github.com/ameya-9/AnomalyDetection/blob/main/img/Outlier-98.png)
 November temperature vs Days (and outliers in red)
 ![November temp and outliers in red](https://github.com/ameya-9/AnomalyDetection/blob/main/img/Nov-outlier.png)
+Feburary temperature vs Days (and outliers in red)
 ![Febuary temp and outliers in red](https://github.com/ameya-9/AnomalyDetection/blob/main/img/feb-outlier.png)
+January temperature vs Days (and outliers in red)
 ![January temp and outliers in red](https://github.com/ameya-9/AnomalyDetection/blob/main/img/jan-outlier.png)
